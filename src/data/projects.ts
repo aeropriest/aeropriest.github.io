@@ -334,6 +334,7 @@ export const projects: Project[] = [
       "Firmware in ESP-IDF with OTA updates carried by the phone over BLE and Wi-Fi",
       "Flutter app for setup, live video and push-to-talk through a Vercel relay",
       "Fish-Audio cloned voice, Gemini / OpenRouter / Anthropic fallback chain for Q&A",
+      "Built on my patent: Interactive education device and method for guidance using AI, HK short-term patent HK30101316 (2024), US and PCT applications pending",
     ],
     cover: "/images/orbie-render.webp",
     gallery: [
