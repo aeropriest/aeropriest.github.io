@@ -252,7 +252,7 @@ export const projects: Project[] = [
     title: "Kyozo",
     tagline: "Community-management SaaS platform: iOS/Android app, web at kyozo.com, API-first backend",
     category: "products",
-    period: "2025 – present",
+    period: "Jun 2025 – present",
     role: "CTO",
     org: "Kyozo, Hong Kong",
     status: "Live on the App Store",
