@@ -325,7 +325,7 @@ export const projects: Project[] = [
     category: "products",
     period: "2025 – 2026",
     role: "Founder, hardware + firmware + app",
-    org: "Ayva Labs",
+    org: "Axar Soft",
     status: "Working prototype, build in public",
     tags: ["ESP32-S3", "ESP-IDF", "KiCad", "3D printing", "Flutter", "BLE", "Vision LLMs"],
     description:
