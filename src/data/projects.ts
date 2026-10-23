@@ -291,7 +291,7 @@ export const projects: Project[] = [
     category: "products",
     period: "2025 – present",
     role: "Founder",
-    org: "Ayva Labs",
+    org: "Axar Soft",
     status: "Live on App Store & Google Play",
     tags: ["React Native / Expo", "Gemini", "Firebase", "RevenueCat", "Next.js"],
     description:
